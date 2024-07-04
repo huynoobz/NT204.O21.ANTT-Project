@@ -23,3 +23,5 @@ Những phần mà tôi đóng góp trong Đồ án môn Hệ thống tìm kiế
 
 ## Bài báo chính mà nhóm nghiên cứu
 Halim, Z., Yousaf, M. N., Waqas, M., Sulaiman, M., Abbas, G., Hussain, M., Ahmad, I., & Hanif, M. (2021). An effective genetic algorithm-based feature selection method for intrusion detection systems. Computers &amp; Security, 110, 102448. https://doi.org/10.1016/j.cose.2021.102448 
+
+### P/S: Repository này không thể hiện quá trình thực hiện dự án của tôi hay của nhóm, repository này được tạo sau khi dự án môn học kết thúc bởi cá nhân tôi với mục đích lưu trữ
